@@ -30,9 +30,6 @@ class questaoum{
     int dwarfs = 0;
     int wizards = 0;
     int hobbiteca = 0; 
-    /*fuck hobbits
-    i can't stand it anymore
-    */
     for (int p = 0; p < listRaces.size(); p++){
       Character race = listRaces.get(p);
       if (race == 'X'){
